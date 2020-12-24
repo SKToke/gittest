@@ -4,6 +4,9 @@ function sum(n){
 	var sumation = 0;
 
 
+
+	//change
+
 	//do something
 	for(i=0;i<n.length;i++){
 		sumation+=n[i];
